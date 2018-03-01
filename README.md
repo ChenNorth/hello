@@ -1,2 +1,4 @@
 # hello-world
-Just a test
+Hi！
+I'm Chinese.
+This is ust a test.

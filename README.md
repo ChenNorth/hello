@@ -1,4 +1,5 @@
-# hello-world
-Just a test
+# hello
 
-Thanks
+This is Just a test.
+
+Thanks.
